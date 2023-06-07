@@ -1,5 +1,5 @@
-baseURL: "https://pascalmichaillat.org/" 
-title: Pascal Michaillat
+baseURL: "https://cemeroncel.github.io/" 
+title: Cem Eröncel
 paginate: 20
 theme: PaperMod
 
@@ -7,7 +7,7 @@ enableInlineShortcodes: true
 enableRobotsTXT: true
 
 social:
-    twitter: pmichaillat
+    twitter: ''
 
 taxonomies:
     tag: tags
@@ -20,20 +20,17 @@ menu:
         - name: Courses
           url: /courses/
           weight: 2
-        - name: Design
-          url: /design/
+        - name: Projects
+          url: /projects/
           weight: 3
         - name: Tags
           url: /tags/
           weight: 4     
-        - name: Newsletter
-          url: https://pmichaillat.substack.com
-          weight: 5
 
 params:
-    description: "I am an Associate Professor of Economics at Brown University. I work on unemployment, economic slack, business cycles, macroeconomic policy, metascience."
-    author: Pascal Michaillat
-    googleAnalyticsID: "G-97G4MZ4061"
+    description: "I am a postdoctoral researcher at the Physics Engineering department of Istanbul Technical University. My interests are theoretical and computational cosmology, in particular the nature of dark matter and its impact on structure formation."
+    author: Cem Eröncel
+    googleAnalyticsID: ""
     DateFormat: "January 2006"
     defaultTheme: light
     hideFooter: true
@@ -55,45 +52,47 @@ params:
     math: true
     profileMode:
           enabled: true
-          title: Pascal Michaillat
-          subtitle: "I am an Associate Professor of Economics at Brown University. I work on unemployment, economic slack, business cycles, macroeconomic policy, and science-related topics. In January–June 2023, I am visiting the University of California–San Diego."
-          imageUrl: "/picture.jpeg"
+          title: Cem Eröncel
+          subtitle: "I am a postdoctoral researcher at the Physics Engineering department of Istanbul Technical University. My interests are theoretical and computational cosmology, in particular the nature of dark matter and its impact on structure formation."
+          imageUrl: "/me.jpg"
           imageWidth: 170
           imageHeight: 170
-          imageTitle: Pascal Michaillat
+          imageTitle: Cem Eröncel
           buttons:
             - name: Papers
               url: /papers/
             - name: Courses
               url: /courses/
-            - name: Design
-              url: /design/
+            - name: Projects
+              url: /projects/
     socialIcons:
         - name: CV
           url: "/cv.pdf"
         - name: Email
-          url: "mailto:pascalmichaillat@gmail.com"
-        - name: Location
-          url: /location/
-        - name: Office Hours
-          url: /officehours/
-        - name: Google Scholar
-          url: "https://scholar.google.com/citations?user=cL23w-4AAAAJ"
-        - name: YouTube
-          url: "https://www.youtube.com/@pmichaillat"
+          url: "mailto:cem.eroncel@itu.edu.tr"
+#        - name: Location
+#          url: /location/
+#        - name: Office Hours
+#          url: /officehours/
+        - name: Inspire
+          url: "https://inspirehep.net/authors/1705253?ui-citation-summary=true"
+#        - name: YouTube
+#          url: "https://www.youtube.com/@pmichaillat"
         - name: GitHub
-          url: "https://github.com/pmichaillat"
-        - name: Substack
-          url: "https://pmichaillat.substack.com"
+          url: "https://github.com/cemeroncel"
+#        - name: Substack
+#          url: "https://pmichaillat.substack.com"
+        - name: Orcid
+          url: "https://orcid.org/my-orcid?orcid=0000-0002-9308-1449"
 
     assets:
         disableHLJS: true
         disableScrollBarStyle: true
     cover:
-        hiddenInList: true
-        hiddenInSingle: true
+        hiddenInList: false
+        hiddenInSingle: false
     label:
-      text: "Pascal Michaillat"
+      text: "Cem Eröncel"
       icon: /favicon.ico
       iconHeight: 18
 

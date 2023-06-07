@@ -1,4 +1,4 @@
 ---
 title: "Courses"
-description: "Courses on economic slack, unemployment, macroeconomics, and mathematical methods for macroeconomics. For undergraduate and graduate students."
+description: "Courses on theoretical high energy physics and cosmology. For undergraduate and graduate students."
 ---
