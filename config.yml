@@ -7,10 +7,6 @@ theme: PaperMod
 enableInlineShortcodes: true
 enableRobotsTXT: true
 
-params:
-    social:    
-        twitter: ''
-
 taxonomies:
     tag: tags
 
