@@ -1,13 +1,15 @@
 baseURL: "https://cemeroncel.github.io/" 
 title: Cem Eröncel
-paginate: 20
+pagination:
+    pagerSize: 20
 theme: PaperMod
 
 enableInlineShortcodes: true
 enableRobotsTXT: true
 
-social:
-    twitter: ''
+params:
+    social:    
+        twitter: ''
 
 taxonomies:
     tag: tags
