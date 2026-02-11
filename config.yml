@@ -28,7 +28,7 @@ menu:
           weight: 4     
 
 params:
-    description: "I am a postdoctoral researcher at the Physics Engineering department of Istanbul Technical University. My interests are theoretical and computational cosmology, in particular the nature of dark matter and its impact on structure formation."
+    description: "I am an assistant professor at the Electric-Electronics Engineering department of Istinye University. My interests are theoretical and computational cosmology, in particular the nature of dark matter and its impact on structure formation."
     author: Cem Eröncel
     googleAnalyticsID: ""
     DateFormat: "January 2006"
@@ -53,7 +53,7 @@ params:
     profileMode:
           enabled: true
           title: Cem Eröncel
-          subtitle: "I am a postdoctoral researcher at the Physics Engineering department of Istanbul Technical University. My interests are theoretical and computational cosmology, in particular the nature of dark matter and its impact on structure formation."
+          subtitle: "I am an assistant professor at the Electric-Electronics Engineering department of Istinye University. My interests are theoretical and computational cosmology, in particular the nature of dark matter and its impact on structure formation."
           imageUrl: "/me.jpg"
           imageWidth: 170
           imageHeight: 170
@@ -71,7 +71,7 @@ params:
         - name: CV
           url: "/cv.pdf"
         - name: Email
-          url: "mailto:cem.eroncel@itu.edu.tr"
+          url: "mailto:cem.eroncel@istinye.edu.tr"
 #        - name: Location
 #          url: /location/
 #        - name: Office Hours
