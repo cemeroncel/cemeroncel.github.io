@@ -30,7 +30,7 @@ Axions and axion-like-particles are well-motivated candidates for beyond the Sta
 - [Lecture 5](/axions-2023-lecture-5.pdf) : Instantons in Quantum Mechanics
 - [Lecture 6](/axions-2023-lecture-6.pdf) : Instantons and the Theta Vacua
 - [Lecture 7](/axions-2023-lecture-7.pdf) : Strong CP Problem
-- [Lecture 8](/axions-2023-lecture-8.pdf) : Solutions to the Strong CO Problem and the Axion
+- [Lecture 8](/axions-2023-lecture-8.pdf) : Solutions to the Strong CP Problem and the Axion
 
 
 
